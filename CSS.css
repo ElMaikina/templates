@@ -1,0 +1,29 @@
+* {
+	font-family: "URW Gothic L";
+  	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+  padding: 10px;
+}
+table {
+  display: table;
+  margin: 0 auto;
+  padding: 10px;
+}
+.MyList {
+  	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.MyTable {
+	margin: 30px;
+  	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
